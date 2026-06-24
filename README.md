@@ -5,3 +5,6 @@
 
 ## Array
 - [1. Two Sum](https://leetcode.com/problems/two-sum/)
+
+## Linked List
+- [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
