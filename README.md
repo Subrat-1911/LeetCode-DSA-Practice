@@ -2,6 +2,7 @@
 
 ## Math
 - [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
+- [633. Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/)
 - [1342. Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
 ## Array
 - [1. Two Sum](https://leetcode.com/problems/two-sum/)
