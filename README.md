@@ -2,7 +2,7 @@
 
 ## Math
 - [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
-
+- [1342. Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
 ## Array
 - [1. Two Sum](https://leetcode.com/problems/two-sum/)
 - [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
