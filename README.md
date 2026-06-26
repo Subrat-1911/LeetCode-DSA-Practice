@@ -13,6 +13,7 @@
 - [81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
 - [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 - [455. Assign Cookies](https://leetcode.com/problems/assign-cookies/)
+- [540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
 - [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
 ## Linked List
 - [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
