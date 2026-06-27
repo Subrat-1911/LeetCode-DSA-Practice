@@ -1,0 +1,30 @@
+name: Sync DSA Tracker
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Har raat chalega
+  workflow_dispatch: # Tum manually bhi chala sako
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Run Sync Script
+        run: python sync.py
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "GitHub Action Bot"
+          git config --global user.email "action@github.com"
+          git add DSA_Report.md
+          git commit -m "Auto-update DSA tracker from Google Sheets" || echo "No changes to commit"
+          git push
