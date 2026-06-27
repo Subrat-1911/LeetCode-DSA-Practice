@@ -5,7 +5,7 @@ public:
         long long y=stoi(num2);
 
         long long sum =x+y;
-        string s=to_string(sum);
+        string s=std::to_string(sum);
 
         return s;
     }
