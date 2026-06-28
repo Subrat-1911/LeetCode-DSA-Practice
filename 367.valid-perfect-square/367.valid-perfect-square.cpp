@@ -1,7 +1,3 @@
-        // if(x*x==num) return true;
-        // else return false;
-
-        // but here we cant use sqrt function;
         int lo =0;
         int hi =num;
         while(lo<=hi){
