@@ -10,6 +10,7 @@
 | **Solve Status** | `Partial Hint` |
 | **Time Taken** | `25 Minutes` |
 | **Complexity** | `TC: O(n), SC: O(1)` |
+| **Confidence** | `High` |
 
 ## 🧠 Approach & Notes
 
