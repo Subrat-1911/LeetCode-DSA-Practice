@@ -20,6 +20,7 @@
 - [658. Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)
 - [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
 - [877. Stone Game](https://leetcode.com/problems/stone-game/)
+- [1011. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
 ## Linked List
 - [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
 
