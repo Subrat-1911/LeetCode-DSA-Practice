@@ -1,20 +1,20 @@
 class Solution {
 public:
-    bool check(int mid,vector<int>& weights, int days){
-        int n = weights.size();
-        int m = mid;
-        int count = 1;
-        for(int i=0; i<n ; i++){
-            if(m>=weights[i]){
-                m-=weights[i];
-            }
-            else {
-                count ++;
-                m=mid;
-                m-=weights[i];
-            }
+    int countBinaryPalindromes(long long n) {
+        if (n == 0) return 1; // "0"
+        unsigned long long N = (unsigned long long)n;
+        int maxLen = 0;
+        unsigned long long tmp = N;
+        while (tmp) { maxLen++; tmp >>= 1; }
+
+        long long cnt = 1; // count 0
+
+        // count all palindromes of lengths < maxLen
+        for (int len = 1; len < maxLen; ++len) {
+            int half = (len + 1) / 2;
+            // number of choices for the first half with leading 1
+            cnt += 1LL << (half - 1);
         }
-        if(count<= days) return true;
-        else return false;
-    }
+
+        // handle length == maxLen
 
