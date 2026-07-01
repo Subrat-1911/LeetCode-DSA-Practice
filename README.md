@@ -26,7 +26,7 @@
 - [1011. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
 ## Linked List
 - [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
-
+- [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 ## Hash Table
 - [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 - [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
