@@ -4,7 +4,7 @@ public:
         int lo=0;
         int hi=num;
         while(lo<=hi){
-            int mid=lo+(hi-lo)/2;
+            long mid=lo+(hi-lo)/2;
         }
             if(mid*mid==num) return true;
             else if(mid*mid>num){
