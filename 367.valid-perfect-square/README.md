@@ -10,6 +10,7 @@
 | **Solve Status** | `Independent` |
 | **Time Taken** | `7 Minutes` |
 | **Complexity** | `TC: O(log n), SC: O(1)` |
+| **Confidence** | `High` |
 
 ## 🧠 Approach & Notes
 
