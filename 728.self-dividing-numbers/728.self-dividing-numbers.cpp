@@ -1,17 +1,17 @@
-    vector<int> selfDividingNumbers(int left, int right) {
     }
         return flag;
         }
+            else return false;
             }
-                flag=true;
             if(x%z==0){
+                flag=true;
             y=y/10;
-            int z= y%10;
         while(y>0){
-        bool flag=false;
+            int z= y%10;
         int y=x;
-    bool selfDive(int x){
-            else return flag=false;
+        bool flag=false;
 public:
+    bool selfDive(int x){
 class Solution {
+            if(z==0) return false;
 
