@@ -1,9 +1,4 @@
-            if(customers[i]=='Y'){
-                noy++;
                 suf[i]=noy;
-            }
-            else if(noy>0){
-                suf[i]=non;
             }
             else{
                 suf[i]=0;
@@ -20,8 +15,13 @@
                 mindx=i;
             }
         }
-        return mindx;
-
-    }
-};
+            else if(noy>0){
+            }
+                suf[i]=noy;
+                noy++;
+            if(customers[i]=='Y'){
+        for(int i=n-1;i>=0;i--){  // ye ke liye penality for sufix
+        int noy=0;
+        suf[n]=0;
+        }
 
