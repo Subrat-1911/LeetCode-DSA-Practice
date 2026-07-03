@@ -46,6 +46,6 @@
 
 ## String
 - [520. Detect Capital](https://leetcode.com/problems/detect-capital/)
-
+- [2483. Minimum Penalty for a Shop](https://leetcode.com/problems/minimum-penalty-for-a-shop/)
 ## Two Pointers
 - [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)
