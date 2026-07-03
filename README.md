@@ -33,6 +33,7 @@
 - [896. Monotonic Array](https://leetcode.com/problems/monotonic-array/)
 - [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 - [1011. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
+- [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
 ## Linked List
 - [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 - [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
