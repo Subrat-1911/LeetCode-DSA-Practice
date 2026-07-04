@@ -20,7 +20,7 @@
             }
             
         }
-        maxlen=max(maxlen,len);
+        maxlen=max(maxlen,j-i);
         return maxlen;
     }
 };
