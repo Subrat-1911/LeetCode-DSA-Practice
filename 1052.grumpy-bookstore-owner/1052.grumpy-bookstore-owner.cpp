@@ -1,19 +1,6 @@
                 maxidx=i;
             }
             preWindow=currWindow;
-                maxSum=currWindow;
-            if(maxSum<currWindow){
-            }
-            int currWindow=preWindow+nxtWin-preWin;
-                preWin=customers[i-1];
-            int preWin=0;
-            if(grumpy[i-1]==1){
-            }
-            if(grumpy[j]==1){
-                nxtWin=customers[j];
-            int nxtWin=0;
-        int maxidx=0;
-        while(j<n){
             i++;
             j++;
 
@@ -29,4 +16,12 @@
             }
             
         }
+        return answer;
+
+        
+    }
+
+
+
+};
 
