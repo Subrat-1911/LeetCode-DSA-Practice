@@ -1,22 +1,24 @@
-class Solution {
-public:
-    vector<int> answerQueries(vector<int>& nums, vector<int>& queries) {
-        int n=nums.size();
-        int m=queries.size();
-        vector<int> ans(m);
-        sort(nums.begin(),nums.end());
-        for(int i=1;i<n;i++){
-            nums[i]+=nums[i-1];
-        }
+
+        // }
+        //     }
+        //         else break;
+        // here we can use binary search
         for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
-        }
-                if(nums[j]<=queries[i]){
-            }
-                    ans[i]=j+1;
+            int lo=0;
+            int hi=n-1;
+            while(lo<=hi){
+                int mid=lo+(hi-lo)/2;
+                if(nums[mid]<=queries[i]){
+                    ans[i]=mid+1;
                 }
-    }
+                else if(nums[mid]>queries[i]){
+                    hi=mid-1;
+                }
+                
+            }
+        }
         return ans;
-                else break;
+    }
+                    lo=mid+1;
 };
 
