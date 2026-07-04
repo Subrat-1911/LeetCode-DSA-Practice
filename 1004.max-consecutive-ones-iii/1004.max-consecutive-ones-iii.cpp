@@ -1,4 +1,4 @@
-                for(int m=i;m<j;m++){
+                for(int m=i;m<=j;m++){
                 maxlen=max(maxlen,len);
                 len=j-i;
             else{
@@ -20,13 +20,8 @@
             }
             
         }
+        maxlen=max(maxlen,len);
         return maxlen;
     }
-        maxlen=max(maxlen,len);
-        int len=0;
-        int flip=0;
-        int j=0;
-        int i=0;
-        int n=nums.size();
-    int longestOnes(vector<int>& nums, int k) {
+};
 
