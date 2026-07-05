@@ -1,11 +1,9 @@
                 else{  //j=0 & del=1;
                     len=j-i;
                     maxlen=max(maxlen,len);
-                    while(nums[i]==0)i++;
+                    for(int m=i;m<j;m++){
                 }
             }
-        }
-        len=j-i;
                 }
                     j++;
                     del++;
@@ -15,14 +13,16 @@
         while(j<n){
         int maxlen=INT_MIN;
                     j++;
+                        if(nums[m]==0){
+                            i=m+1;
+                            break;
+                        }
+                        
+                    }
+        }
+        len=j-i;
         maxlen=max(maxlen,len);
         return maxlen-1;
     }
-        int n =nums.size();
-        int i=0;
-        int j=0;
-        int len=0;
-        int del=0;
-                    i++;
 };
 
