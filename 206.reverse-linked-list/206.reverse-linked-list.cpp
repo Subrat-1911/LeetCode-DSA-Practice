@@ -1,19 +1,17 @@
-        ListNode* pre =NULL;
-    ListNode* reverseList(ListNode* head) {
-public:
-class Solution {
- */
-        ListNode* curr=head;
-        ListNode* next;
-        while(curr!=NULL){
-            next=curr->next;
-        }
-            curr->next=pre;
-            pre=curr;
-            curr=next;
+        //     curr=next;
+        // }
+        // return pre;
+
+        //recursive
+        ListNode* newHead =reverseList(head->next);
+        head->next->next=head;
+        head->next=NULL;
+        return newHead;
+
         
         
     }
-        return pre;
+        //     pre=curr;
+        if(head==NULL || head->next==NULL) return head;
 };
 
