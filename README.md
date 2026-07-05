@@ -44,6 +44,7 @@
 - [2389. Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/)
 ## Linked List
 - [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+- [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 - [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
 - [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 ## Hash Table
