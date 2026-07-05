@@ -46,6 +46,7 @@
 - [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 - [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 - [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
+- [148. Sort List](https://leetcode.com/problems/sort-list/)
 - [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 ## Hash Table
 - [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
