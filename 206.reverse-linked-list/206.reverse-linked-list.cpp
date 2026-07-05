@@ -1,23 +1,19 @@
-class Solution {
-public:
+        ListNode* pre =NULL;
     ListNode* reverseList(ListNode* head) {
-        ListNode* pre=NULL;
- *     int val;
- *     ListNode *next;
- *     ListNode() : val(0), next(nullptr) {}
- *     ListNode(int x) : val(x), next(nullptr) {}
- *     ListNode(int x, ListNode *next) : val(x), next(next) {}
- * };
+public:
+class Solution {
  */
         ListNode* curr=head;
-        ListNode* nxt;
-        while(curr !=NULL){
-            nxt=curr->next;
+        ListNode* next;
+        while(curr!=NULL){
+            next=curr->next;
+        }
             curr->next=pre;
             pre=curr;
-            curr=nxt;
-
-        }
-        return pre;
+            curr=next;
         
+        
+    }
+        return pre;
+};
 
