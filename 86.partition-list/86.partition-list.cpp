@@ -1,16 +1,19 @@
-                tl->next=t;
-                t=t->next;
-                tl=tl->next;
-            }
-            else {
-                th->next=t;
-                t=t->next;
-                th=th->next;
-            }
-        }
-        tl->next=hi->next;;
-        th->next=NULL;
-        return lo->next;
-    }
-};
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
+class Solution {
+public:
+    ListNode* partition(ListNode* head, int x) {
+        ListNode* lo=new ListNode(1);
+        ListNode* hi=new ListNode(1);
+        ListNode* t= head;
+        ListNode* tl=lo;
+        ListNode* th=hi;
 
