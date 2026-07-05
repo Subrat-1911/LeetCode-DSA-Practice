@@ -1,5 +1,3 @@
-        while(t!= NULL){
-            if(t->val<x){
                 tl->next=t;
                 t=t->next;
                 tl=tl->next;
@@ -10,9 +8,9 @@
                 th=th->next;
             }
         }
-        tl->next=NULL;
+        tl->next=hi->next;;
         th->next=NULL;
-        ListNode* th=hi;
-        ListNode* tl=lo;
-        ListNode* t= head;
+        return lo->next;
+    }
+};
 
