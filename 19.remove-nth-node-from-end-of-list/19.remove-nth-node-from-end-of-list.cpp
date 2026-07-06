@@ -1,7 +1,6 @@
         ListNode* temp=head;
         int k=0;
         while(temp!=NULL){
-        if(head->next == NULL && n==1) return NULL;
         if(head==NULL) return NULL;
             temp=temp->next;
             k++;
@@ -15,6 +14,6 @@
         return head;
         
     }
-        //if(head->next->next == NULL && n==2) return head->next;
         if(m==0) return head->next;
+};
 
