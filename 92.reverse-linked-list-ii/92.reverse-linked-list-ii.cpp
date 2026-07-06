@@ -1,17 +1,20 @@
-            else if(n==left) b=temp;
-            else if(n==right) c=temp;
-            else if(n==right+1) d=temp;
-            temp=temp->next;
-            n++;
-        }
-        if(a!=NULL) a->next=NULL;
-        c->next=NULL;
-        c=Reverse(b);
-        if(a!=NULL) a->next=c;
-        b->next=d;
-        if(a!=NULL) return head;
 
+class Solution {
+public:
+    ListNode* Reverse(ListNode* head){
+        ListNode* pre = NULL;
+        ListNode* nxt ;
+        ListNode* curr = head;
+        while(curr!=NULL){
+            nxt=curr->next;
+            curr->next=pre;
+            pre=curr;
+            curr=nxt;
+        }
+        return pre;
     }
-        else return c;
-};
+    void reorderList(ListNode* head) {
+        ListNode* slow=head;
+        ListNode* fast=head;
+        while(fast->next!=NULL && fast->next->next!=NULL){
 
