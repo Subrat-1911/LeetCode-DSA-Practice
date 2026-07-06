@@ -15,6 +15,6 @@
         return head;
         
     }
-        if(head->next->next == NULL && n==2) return head->next;
-};
+        //if(head->next->next == NULL && n==2) return head->next;
+        if(m==0) return head->next;
 
