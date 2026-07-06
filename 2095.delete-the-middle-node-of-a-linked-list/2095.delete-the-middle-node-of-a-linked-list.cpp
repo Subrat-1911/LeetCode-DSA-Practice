@@ -10,11 +10,11 @@ public:
             fast=fast->next->next;
         }
         for(int i=0;i<n-1;i++){
-        return head;
         int n=0;
             n++;
             temp=temp->next;
         }
         ListNode* temp=head;
         temp->next=temp->next->next;
+        if(head==NULL || head->next==NULL) return NULL;
 
