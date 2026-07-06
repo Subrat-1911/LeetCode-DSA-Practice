@@ -54,6 +54,7 @@
 - [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 - [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 - [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)
+- [2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)
 ## Hash Table
 - [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 - [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
