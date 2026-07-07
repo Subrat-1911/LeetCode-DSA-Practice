@@ -1,17 +1,19 @@
-    }
-        return flag;
-        }
-            else return false;
-            }
-            if(x%z==0){
-                flag=true;
-            y=y/10;
-        while(y>0){
-            int z= y%10;
-        int y=x;
-        bool flag=false;
+class Solution {
 public:
     bool selfDive(int x){
-class Solution {
+        int y=x;
+        bool flag=false;
+        while(y>0){
+            int z= y%10;
             if(z==0) return false;
+            y=y/10;
+            if(x%z==0){
+                flag=true;
+            }
+            else return false;
+        }
+        return flag;
+    }
+    vector<int> selfDividingNumbers(int left, int right) {
+        vector<int>v;
 
