@@ -9,6 +9,7 @@
 - [415. Add Strings](https://leetcode.com/problems/add-strings/)
 - [633. Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/)
 - [728. Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)
+- [1025. Divisor Game](https://leetcode.com/problems/divisor-game/)
 - [1342. Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
 - [3677. Count Binary Palindromic Numbers](https://leetcode.com/problems/count-binary-palindromic-numbers/)
 ## Array
