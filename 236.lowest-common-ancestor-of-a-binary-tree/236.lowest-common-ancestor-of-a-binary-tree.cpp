@@ -1,19 +1,14 @@
 
 class Solution {
 public:
-    bool exist(TreeNode* root, TreeNode* target){
-        if(root == target) return true;
-    }
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        if(root==p || root == q) return root;
-        else if(exist(root->left,p) && exist(root->right,q)) return root;
-        else if(!exist(root->left,p) && !exist(root->right,q)) return root;
-        else if(exist(root->left,p) && !exist(root->right,q)){
-            return lowestCommonAncestor(root->left,p,q);
+        if(root == NULL || root==p || root == q) return root;
+        TreeNode* left = lowestCommonAncestor(root->left,p,q);
+        TreeNode* right = lowestCommonAncestor(root->right,p,q);
+        if(left && right){
+            return root;
         }
     }
-        else return lowestCommonAncestor(root->right,p,q);
-        if(root==NULL) return false;
-        return exist(root->left,target) || exist(root->right,target);
+        return left ? left : right;
 };
 
