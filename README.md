@@ -68,3 +68,6 @@
 - [2483. Minimum Penalty for a Shop](https://leetcode.com/problems/minimum-penalty-for-a-shop/)
 ## Two Pointers
 - [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)
+
+## Tree
+- [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
