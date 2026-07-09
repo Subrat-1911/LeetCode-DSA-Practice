@@ -64,6 +64,7 @@
 
 ## String
 - [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+- [257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)
 - [520. Detect Capital](https://leetcode.com/problems/detect-capital/)
 - [2483. Minimum Penalty for a Shop](https://leetcode.com/problems/minimum-penalty-for-a-shop/)
 ## Two Pointers
