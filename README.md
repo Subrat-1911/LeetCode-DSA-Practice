@@ -71,4 +71,5 @@
 
 ## Tree
 - [100. Same Tree](https://leetcode.com/problems/same-tree/)
+- [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
 - [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
