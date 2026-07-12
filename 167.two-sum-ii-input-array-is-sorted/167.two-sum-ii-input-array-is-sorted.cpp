@@ -1,20 +1,18 @@
-                sumOf[0]=lo+1;
-                sumOf[1]=hi+1;
-                break;
-
+                ans.push_back(lo+1);
+                ans.push_back(hi+1);
+                return ans;
             }
-            else if(sum<target){
-                lo++;
+            else if(numbers[lo]+numbers[hi]>target){
+                hi--;
             }
-            else {
-            int sum = numbers[lo]+numbers[hi];
-            if(sum==target){
-        int hi =n-1;
+            else lo++;
+            if(numbers[lo]+numbers[hi]==target){
         while(lo<hi){
-    vector<int> twoSum(vector<int>& numbers, int target) {
-        vector<int>sumOf(2);
-        int n = numbers.size();
+        int hi=n-1;
         int lo=0;
+        int n = numbers.size();
+        vector<int> ans;
+    vector<int> twoSum(vector<int>& numbers, int target) {
 public:
 class Solution {
 
