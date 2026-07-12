@@ -39,6 +39,7 @@
 - [713. Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)
 - [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
 - [877. Stone Game](https://leetcode.com/problems/stone-game/)
+- [881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)
 - [896. Monotonic Array](https://leetcode.com/problems/monotonic-array/)
 - [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 - [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)
