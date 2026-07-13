@@ -6,6 +6,7 @@
 - [258. Add Digits](https://leetcode.com/problems/add-digits/)
 - [263. Ugly Number](https://leetcode.com/problems/ugly-number/)
 - [367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)
+- [371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)
 - [415. Add Strings](https://leetcode.com/problems/add-strings/)
 - [633. Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/)
 - [728. Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)
