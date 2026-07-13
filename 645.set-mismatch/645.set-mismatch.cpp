@@ -7,12 +7,12 @@
             sum+=nums[i];
         int sum=0;
         ans.push_back(dup);
-        }
-        int orgSum=n*(n+1)/2;
-        int mis=(orgSum-(sum-dup));
-        ans.push_back(mis);
-        return ans;
-
-    }
-};
+        for(int i=0;i<n-1;i++){
+        int n= nums.size();
+        int dup=-1;
+        //sort(nums.begin(),nums.end());
+public:
+    vector<int> findErrorNums(vector<int>& nums) {
+        vector<int> ans;
+class Solution {
 
