@@ -35,6 +35,7 @@
 - [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
 - [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 - [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)
+- [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 - [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
 - [455. Assign Cookies](https://leetcode.com/problems/assign-cookies/)
 - [540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
