@@ -39,6 +39,7 @@
 - [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
 - [455. Assign Cookies](https://leetcode.com/problems/assign-cookies/)
 - [540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
+- [645. Set Mismatch](https://leetcode.com/problems/set-mismatch/)
 - [658. Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)
 - [713. Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)
 - [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
