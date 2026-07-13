@@ -7,7 +7,7 @@ public:
         sort(t.begin(), t.end());
 
         for(int i=0;i<s.size();i++){
-            if(s[i]!=t[i]) return s[i];
+            if(s[i]!=t[i]) return t[i];
         }
     }
         return t[t.size()-1];
