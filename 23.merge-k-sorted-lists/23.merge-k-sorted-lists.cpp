@@ -1,6 +1,4 @@
         //     lists.pop_back();
-        //     ListNode* b=lists[lists.size()-1];
-        //     lists.pop_back();
         //     ListNode* c=mergeTwoLists(a,b);
         //     lists.push_back(c);
 
@@ -15,4 +13,6 @@
 
         }
         return lists[0];  // return the 1st element;
+    }
+};
 
