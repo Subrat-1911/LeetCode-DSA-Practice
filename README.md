@@ -93,6 +93,7 @@
 - [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
 - [437. Path Sum III](https://leetcode.com/problems/path-sum-iii/)
 - [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
+- [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)
 ## Stack
 - [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 - [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
