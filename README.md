@@ -49,6 +49,7 @@
 - [896. Monotonic Array](https://leetcode.com/problems/monotonic-array/)
 - [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 - [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)
+- [1008. Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)
 - [1011. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
 - [1052. Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/)
 - [1402. Reducing Dishes](https://leetcode.com/problems/reducing-dishes/)
