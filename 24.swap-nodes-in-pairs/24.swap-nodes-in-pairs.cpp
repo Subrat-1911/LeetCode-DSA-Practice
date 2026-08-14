@@ -1,8 +1,10 @@
-        ListNode* dummy=new ListNode(-1);
-        while(pre->next==NULL){
         ListNode* pre=dummy;
-            ListNode* fir=pre->next;
+        ListNode* dummy=new ListNode(-1);
+    ListNode* swapPairs(ListNode* head) {
+        if(head==NULL || head->next==NULL) return head;
 
+        while(pre->next!=NULL && pre->next->next != NULL){
+            ListNode* fir=pre->next;
             ListNode* sec=fir->next;
 
             pre->next=sec;
@@ -12,10 +14,5 @@
             pre=fir;
 
 
-        if(head==NULL || head->next==NULL) return head;
-    ListNode* swapPairs(ListNode* head) {
-        }
-        return dummy->next;
-    }
-};
+        dummy->next=head;
 
