@@ -99,6 +99,7 @@
 - [437. Path Sum III](https://leetcode.com/problems/path-sum-iii/)
 - [450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)
 - [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
+- [669. Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)
 - [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)
 - [701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)
 - [1038. Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/)
