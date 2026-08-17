@@ -111,3 +111,6 @@
 
 ## Backtracking
 - [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/)
+
+## Binary Search
+- [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)
