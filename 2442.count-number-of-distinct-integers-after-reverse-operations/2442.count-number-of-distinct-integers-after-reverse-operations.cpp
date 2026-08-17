@@ -12,7 +12,7 @@
             s.insert(nums[i]);
         }
         
-        return anss.size();
+        return s.size();
     }
 };
 
