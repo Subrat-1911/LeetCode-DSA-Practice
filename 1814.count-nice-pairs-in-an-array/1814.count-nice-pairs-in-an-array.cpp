@@ -13,8 +13,8 @@
             }
             else mp[ele]++;
         }
-        return count%1000000007;
+        return count;
         
         
-    }
+                count%=1000000007; // given
 
