@@ -13,7 +13,7 @@
             }
             else mp[ele]++;
         }
-        return count;
+        return count%1000000007;
         
         
     }
