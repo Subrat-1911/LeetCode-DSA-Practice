@@ -34,6 +34,7 @@
 - [169. Majority Element](https://leetcode.com/problems/majority-element/)
 - [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
 - [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
+- [220. Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)
 - [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 - [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 - [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
