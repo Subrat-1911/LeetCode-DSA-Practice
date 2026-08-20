@@ -1,14 +1,16 @@
-class Solution {
-public:
-    int maximumCount(vector<int>& nums) {
-        int n=nums.size();
-        for(int i=0;i<n;i++){
-            if(nums[i]<0) neg++;
-            else if(nums[i]>0) pos++;
+        lo=0;
+        hi=n-1;
+        int FPI=lo;
         }
+        while(lo<hi){
+            int mid=lo+(hi-lo)/2;
+            if(nums[mid]<=0)hi=mid-1;
+            else if(nums[mid]>0) lo=mid+1;
+        }
+        int FNI=hi;
+        int pos=n-1-FPI+1;
+        int neg=FNI+1;
+        return max(pos,neg);
     }
-        int neg=0;
-        int pos=0;
-        return max(neg,pos);
 };
 
