@@ -1,5 +1,5 @@
         for(int i=0;i<n;i++){
-            if(nums[i]>=max){
+            if(nums[i]>max){
         int max=INT_MIN;
         int maxidx=-1;
                 max=nums[i];
