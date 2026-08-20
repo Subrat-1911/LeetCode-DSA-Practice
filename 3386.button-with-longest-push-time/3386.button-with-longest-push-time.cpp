@@ -5,14 +5,14 @@
                 max=nums[i];
         }
             nums.push_back(sub);
+            int sub= events[i][1]-events[i-1][1];
+        for(int i=1;i<n;i++){
+
+        int n=events.size();
+        vector<int> nums;
+        nums.push_back(events[0][1]);
+    int buttonWithLongestTime(vector<vector<int>>& events) {
                 maxidx=i;
             }
-
-        }
-        return events[maxidx][0];
-        
-    }
-            int sub= events[i-1][1]-events[i-1][1];
-        for(int i=1;i<n;i++){
 
 
