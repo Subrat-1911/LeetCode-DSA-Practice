@@ -2,7 +2,6 @@
             x*=x1;
             n1--;
         }
-        if(n<0){
         }
         else n1=n;
             n1=-n;
@@ -12,4 +11,5 @@
     double myPow(double x, int n) {
 public:
 class Solution {
+        if(n==0) return 1;
 
