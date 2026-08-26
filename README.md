@@ -128,3 +128,6 @@
 
 ## Binary Search
 - [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)
+
+## Uncategorized
+- [4030. Check ASCII Palindromic](https://leetcode.com/problems/check-ascii-palindromic/)
