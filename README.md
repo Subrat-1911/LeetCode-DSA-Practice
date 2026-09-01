@@ -34,6 +34,7 @@
 - [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 - [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 - [169. Majority Element](https://leetcode.com/problems/majority-element/)
+- [204. Count Primes](https://leetcode.com/problems/count-primes/)
 - [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
 - [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
 - [220. Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)
