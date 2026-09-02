@@ -14,6 +14,7 @@
 - [728. Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)
 - [1025. Divisor Game](https://leetcode.com/problems/divisor-game/)
 - [1342. Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
+- [1903. Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/)
 - [3677. Count Binary Palindromic Numbers](https://leetcode.com/problems/count-binary-palindromic-numbers/)
 ## Array
 - [1. Two Sum](https://leetcode.com/problems/two-sum/)
