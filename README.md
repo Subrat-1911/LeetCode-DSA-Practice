@@ -95,6 +95,7 @@
 - [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 - [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
 - [202. Happy Number](https://leetcode.com/problems/happy-number/)
+- [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 - [389. Find the Difference](https://leetcode.com/problems/find-the-difference/)
 - [653. Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)
 ## String
