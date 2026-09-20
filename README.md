@@ -37,6 +37,7 @@
 - [169. Majority Element](https://leetcode.com/problems/majority-element/)
 - [204. Count Primes](https://leetcode.com/problems/count-primes/)
 - [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
+- [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
 - [220. Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)
 - [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
