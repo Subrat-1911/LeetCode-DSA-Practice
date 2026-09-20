@@ -139,3 +139,4 @@
 ## Uncategorized
 - [4030. Check ASCII Palindromic](https://leetcode.com/problems/check-ascii-palindromic/)
 - [4056. Number of Intersecting Interval Pairs I](https://leetcode.com/problems/number-of-intersecting-interval-pairs-i/)
+- [4057. Number of Intersecting Interval Pairs II](https://leetcode.com/problems/number-of-intersecting-interval-pairs-ii/)
