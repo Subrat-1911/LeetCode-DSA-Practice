@@ -1,0 +1,16 @@
+    bool containsDuplicate(vector<int>& nums) {
+        //TC=N+NlogN
+        bool flag=false;
+        sort(nums.begin(),nums.end());
+        for(int i=0;i<nums.size()-1;i++){
+            if(nums[i]==nums[i+1]){
+                flag=true;
+            }
+        }
+        return flag;
+        //we can use hastable for TC=N and SC=N;
+    }
+};
+public:
+class Solution {
+
