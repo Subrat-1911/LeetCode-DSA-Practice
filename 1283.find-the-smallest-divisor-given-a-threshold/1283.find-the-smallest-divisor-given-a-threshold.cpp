@@ -10,5 +10,9 @@
 
         
     }
-};
+            int mid=lo+(hi-lo)/2;
+        while(lo<hi){
+        int lo=1;
+        }
+            }
 
