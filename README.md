@@ -80,6 +80,7 @@
 - [3158. Find the XOR of Numbers Which Appear Twice](https://leetcode.com/problems/find-the-xor-of-numbers-which-appear-twice/)
 - [3386. Button with Longest Push Time](https://leetcode.com/problems/button-with-longest-push-time/)
 - [3467. Transform Array by Parity](https://leetcode.com/problems/transform-array-by-parity/)
+- [3550. Smallest Index With Digit Sum Equal to Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/)
 - [3736. Minimum Moves to Equal Array Elements III](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/)
 ## Linked List
 - [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
