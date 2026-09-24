@@ -1,6 +1,7 @@
 # LeetCode-DSA-Practice
 
 ## Math
+- [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/)
 - [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 - [50. Pow(x, n)](https://leetcode.com/problems/powx-n/)
 - [67. Add Binary](https://leetcode.com/problems/add-binary/)
